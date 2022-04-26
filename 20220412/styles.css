@@ -1,0 +1,6 @@
+a[target] {
+    color: red;
+}
+input[name*=stname] {
+    border-color: blue;
+}
